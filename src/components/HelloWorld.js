@@ -8,10 +8,8 @@ class HelloWorld extends Component {
         <h2>& Bree!</h2>
         <h3>& Katherine!</h3>
         <h4>& Gavin!</h4>
-      </div>  
-    
+      </div>     
     )
-
   }
 }
 
