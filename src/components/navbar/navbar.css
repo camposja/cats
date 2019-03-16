@@ -1,0 +1,22 @@
+body {
+    font-family: "helvetica neue", "helvetica", sans-serif;
+  }  
+img {
+  border: 1px solid grey;
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+h3 {
+  font-size: 14px;
+  font-weight: bold;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f3f3f3;
+}
+.navbar-div img {
+  border: none;
+}

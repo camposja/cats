@@ -1,0 +1,31 @@
+body {
+  font-family: "helvetica neue", "helvetica", sans-serif;
+}
+img {
+border: 1px solid grey;
+padding: 10px;
+display: flex;
+flex-wrap: wrap;
+}
+ul {
+display: flex;
+flex-flow: wrap;
+list-style: none;
+justify-content: center;
+}
+.numtxt {
+font-size: 12px;
+color: grey;
+}
+.catnam {
+font-size: 18px;
+font-weight: bold;
+}
+.catbox {
+margin: 1em;
+}
+.txtbox {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}

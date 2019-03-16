@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import './index.css'
 import App from './App'
-import Cats from './components/cats'
+import Cats from './components/cats/cats'
 // import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<Cats />, document.getElementById('root'));
