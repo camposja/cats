@@ -1,6 +1,6 @@
-# Octodex Octocats w. React.js
+# Octocats w/ React.js
 
-## The purpose of creating this project was to practice utilizing Flexbox, HTML & CSS. The practice included creating a website from scratch which is a replica of GitHub's Octodex mascot.
+## The purpose of project is learning React.js.
 
 - The Octodex cat is GitHub's fun mascot. In the original version fan's have submitted their cool versions of the Octodex cat. All these version made for a fun project.
 
